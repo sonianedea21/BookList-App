@@ -1,2 +1,2 @@
 # BookList-App
-Simple BookList App in HTML and VanillaJavascript
+This is a simple app I wrote following an online training. 
